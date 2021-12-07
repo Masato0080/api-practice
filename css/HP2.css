@@ -42,7 +42,7 @@ li {
 ヘッダー
 -------------------------------------------*/
 /*
-「position: fixed;」でヘッダーを固定し、「z-index: 10;」で前面に表示
+「position: fixed;」でヘッダーを固定し、「z-index: 10;」で前面に表示.
 ※他のコンテンツでpositionをrelative、absolute、fixedのいずれかに
 設定している場合は、z-indexの数値が大きい方が前面に表示される
 */
